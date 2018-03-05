@@ -1,5 +1,4 @@
 import moment from 'moment';
-import Symbol from 'es6-symbol';
 
 //-----------------------------------------------------------------------------
 // Constants
