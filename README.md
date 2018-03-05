@@ -9,7 +9,6 @@ npm install CommiNazi/moment-range-esm --save
 
 Import using ES6 syntax:
 ```javascript
-```
 //main.mjs
 import Moment from "moment"
 import { extendMoment } from "moment-range-esm"
